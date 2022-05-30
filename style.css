@@ -30,6 +30,15 @@
 .container img {
     width: 100%;
 }
+
+footer{
+    margin-left: 50%;
+    margin-right: auto;
+    padding-top: 5%;
+}
+.footer-heart{
+    color: red;
+}
 @keyframes animateImg{
     0%, 100% {
     border-radius: 69% 31% 30% 67% / 72% 47% 40% 26%;
